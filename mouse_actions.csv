@@ -1,0 +1,11 @@
+action,x_position,y_position,delay_ms,button,modifiers,repeat_count
+move,100,200,500,,,
+click,150,300,200,left,,1
+double_click,150,300,150,left,,2
+right_click,400,500,300,right,,1
+drag,200,300,100,left,,
+release,400,500,50,,,
+move,500,600,300,,,
+scroll,500,600,200,,down,5
+wait,,,2000,,,
+move_relative,50,-30,300,,,
